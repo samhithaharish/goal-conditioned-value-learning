@@ -14,17 +14,9 @@ This repo explores:
 - **Token-Level Rewarding** – computing token-wise advantages and rewards to guide training and decoding.
 - **Controlled Decoding** – integrating learned token values into inference to bias generation toward desirable outcomes.
 
-The repository supports **PPO**, **TRPO**, and **custom VERL-style algorithms** for experiments.
 
----
 
-## ✨ Features
 
-- ✅ **Goal-conditioned value estimation** for LLMs  
-- ✅ **Token-level reward shaping** with advantage functions  
-- ✅ **Controlled decoding** using value functions
-- ✅ Plug-and-play 
-- ✅ Modular code for **experiments & reproducibility**  
  
 
 ---
